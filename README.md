@@ -1,61 +1,44 @@
-# TodoApp
+# Frontend Mentor - Advice generator app solution
+
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
-TodoApp is a simple and intuitive todo list application built using React and Tailwind CSS. It allows users to add, edit, complete, and delete tasks. This project is designed to help users manage their daily tasks effectively.
+### The challenge
 
-## Features
+Users should be able to:
 
-- Add new tasks
-- Edit existing tasks
-- Mark tasks as completed
-- Delete tasks
-- Responsive design with Tailwind CSS
-- Unique colors for each task for better visualization
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
 
-## Demo
+### Screenshot
 
-[Click here to view app](www.todo.com)
+![]('./src/images/advice.png')
 
-## Prerequisites
+### Links
 
-Ensure you have the following installed on your system:
+- Solution URL: [Github](https://your-solution-url.com)
+- Live Site URL: [Live Demo](https://your-live-site-url.com)
 
-- Node.js
-- npm
+## My process
 
-## Getting Started
+### Built with
 
-Follow these instructions to set up and run the project on your local machine:
+- [React](https://reactjs.org/) - JS library
 
-### Installation
+- [Tailwind css](https://tailwindcss.com/) - For styles
 
-1. Clone the repository
-   `https://github.com/oyin-systems/todo.git`
+## Author
 
-2. Navigate to the project directory
-   `cd todo`
-
-3. Install the dependencies
-   `npm install` or `yarn install`
-
-### Running the Application
-
-1.  Start the development server:
-    `npm start` or `yarn start`
-2.  Open your browser and visit `http://localhost:3000` to see the app in action.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature-branch`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add some feature'`).
-5.  Push to the branch (`git push origin feature-branch`).
-6.  Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+- Website - [Oyindamola Abolaji](https://oyinabolaji.netlify.app/)
